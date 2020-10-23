@@ -20,3 +20,6 @@
 # Run server:
 # >cd server
 # >npm start 
+
+# clientScreenShot.png: client screen shot of application
+# clientScreenShot.png: client screen shot modal dialog of application
