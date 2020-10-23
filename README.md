@@ -19,12 +19,4 @@
 
 # Run server:
 # >cd server
-# >npm start
-
-# 6/25/20: This is Atlas and it11 runs fine.  Note that this Collection is different from the local Collection below.  
-# When using Compass Community, need to connect correctly to Atlas.  This is linked to the Atlas.
-
-# 6/25/20: 
-# HOST: 127.0.0.1:27017
-# This Compass Community runs fine.  This Collection is different from the above.  It is a local Collection Cluster.
-# This has lots of clusters. 
+# >npm start 
